@@ -15,3 +15,5 @@ Statement "dogs" (02) Statement (01 = "Kids are talking by the door", 02 = "Dogs
 ## Integrating Colab with Github
 The following link shows all the available <code>.ipynb</code> files from our repo that can be opened by colab:
 https://colab.research.google.com/github/JordanFoss/STAT3007_Project
+
+More details can be found in <code>colab-github-demo.ipynb</code>
