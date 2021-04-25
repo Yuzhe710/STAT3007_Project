@@ -13,3 +13,5 @@ Statement "dogs" (02) Statement (01 = "Kids are talking by the door", 02 = "Dogs
 12th Actor (12) Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
 
 ## Integrating Colab with Github
+The following link shows all the available <code>.ipynb</code> files from our repo that can be opened by colab:
+https://colab.research.google.com/github/JordanFoss/STAT3007_Project
