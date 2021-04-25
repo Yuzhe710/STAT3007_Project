@@ -18,8 +18,9 @@ femaleLocations = ["/home/jordan/Documents/UniversityStuff/2021/Stat3007/STAT300
 
 locations = maleLocations + femaleLocations
 
+
 for location in locations:
-    file = open(location + "targets.txt", 'w')
+    file = open(location + "targets" + location[-3] + location[-2] + ".txt", 'w')
     filenames = subprocess.check_output('ls -1 ' + location, shell=True, universal_newlines=True).split("\n")
 
     filenames.pop()
