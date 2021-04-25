@@ -11,3 +11,5 @@ Normal intensity (01) Emotional intensity (01 = normal, 02 = strong). NOTE: Ther
 Statement "dogs" (02) Statement (01 = "Kids are talking by the door", 02 = "Dogs are sitting by the door").
 1st Repetition (01 )Repetition (01 = 1st repetition, 02 = 2nd repetition).
 12th Actor (12) Actor (01 to 24. Odd numbered actors are male, even numbered actors are female).
+
+## Integrating Colab with Github
