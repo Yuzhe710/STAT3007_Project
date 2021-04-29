@@ -29,7 +29,7 @@ big_file.write("\n")
 
 
 for location in locations:
-    file = open(location + "targets" + location[-3] + location[-2] + ".txt", 'w')
+    file = open(location + "targets" + location[-3] + location[-2] + ".csv", 'w')
     filenames = subprocess.check_output('ls -1 ' + location, shell=True, universal_newlines=True).split("\n")
 
     filenames.pop()
